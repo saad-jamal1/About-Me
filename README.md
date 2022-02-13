@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saad-jamal1
 - 👀 I’m interested in Web Developement and AI( machine learning , deep learning etc)
 - 🌱 I’m currently a software engineer student
-- 📫 How to reach me saadjamaleddine1@gmail.com / linkedin: saad-j.
+- 📫 How to reach me saadjamaleddine1@gmail.com / linkedin: https://www.linkedin.com/in/saad-j/
 
 <!---
 saad-jamal1/saad-jamal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
