@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @saad-jamal1
+- 👋 Hi, I’m @Saad Jamal-Eddine
 - 👀 I’m interested in Web Developement and AI( machine learning , deep learning etc)
 - 🌱 I’m currently a software engineer student
 - 📫 How to reach me saadjamaleddine1@gmail.com / linkedin: https://www.linkedin.com/in/saad-j/
